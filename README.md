@@ -1,5 +1,9 @@
-# Progress Example
+# Simple Image scaler
 
-Shows how to measure progress with UpscalerJS.
+To install the app
+- npm install
 
-[See this live](https://githubbox.com/thekevinscott/upscalerjs/tree/main/examples/progress).
+To run the app
+- npm run
+
+
